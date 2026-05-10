@@ -1,0 +1,12 @@
+*{
+    background-color:seashell;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+#counter{
+    display: flex;
+    justify-content: center;
+}
